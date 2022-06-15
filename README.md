@@ -1,6 +1,10 @@
 # Portfolio
  Learn about HTML / CSS / Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
 [Visit Demo Website Hosted by Heroku](https://portfolio-manuel-v.herokuapp.com/)
+
+![Manuel Pic Porfolio](https://user-images.githubusercontent.com/100715740/173933449-343c2cfa-8236-49d3-a49d-3c400ad99bd5.png)
+
+
 ## Tech used
 * HTML
 * CSS
